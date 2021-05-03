@@ -5,7 +5,7 @@ import datetime
 from file import Get
 
 prefix = "z!"
-token ="mfa.RZw3W-TgKwlSQmo9jbr52nCY0zu9DljnR-p5uQD0u8TJMkW0X319rsSwJEcWCUIXelaW9iQpl9D7RMhXIvre"
+token ="ENTER YOUR TOKEN"
 if token == "ENTER YOUR TOKEN":
     print("Please Input Your Token")
     token= input("ENTER HERE: ")
