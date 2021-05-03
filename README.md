@@ -27,7 +27,7 @@ Note⚠️: <strong> You Must Have Python 3 Download , if you dont know and want
 
 
 
-Step 5: **Choose what you want in status**
+Step 6: **Choose what you want in status**
   
 Done Your Status Has Changed
 
