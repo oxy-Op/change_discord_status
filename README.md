@@ -32,7 +32,7 @@ Step 5: **Choose what you want in status**
 Done Your Status Has Changed
 
 
-Further if you have any problem then you can freely [contact](https://alphaoxyop.wordpress.com/contact
+Further if you have any problem then you can freely [contact](https://alphaoxyop.wordpress.com/contact) me
 
 
-) me
+
